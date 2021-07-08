@@ -10,29 +10,29 @@ I decided to draw something every day of the year of 2020. Many were scrawled la
 
 ![Everything leans in on you here](https://github.com/klauszach/klauszach.github.io/blob/main/docs/assets/ink/IMG_1791.JPG)
 
-![Watchtower of the Torreledones](/assets/ink/img_1795.jpg)
+![Watchtower of the Torreledones](https://github.com/klauszach/klauszach.github.io/blob/main/docs/assets/ink/img_1795.jpg)
 
-![Waiting for the train](/assets/ink/img_1789.jpg)
+![Waiting for the train](https://github.com/klauszach/klauszach.github.io/blob/main/docs/assets/ink/img_1789.jpg)
 
-![Dagger in Toledo](/assets/ink/img_1798.jpg)
+![Dagger in Toledo](https://github.com/klauszach/klauszach.github.io/blob/main/docs/assets/ink/img_1798.jpg)
 
-![Scream, from Museo Reina Sofia](/assets/ink/img_1794.jpg)
+![Scream, from Museo Reina Sofia](https://github.com/klauszach/klauszach.github.io/blob/main/docs/assets/ink/img_1794.jpg)
 
-![Christo Yacio, from El Prado](/assets/ink/img_1800.jpg)
+![Christo Yacio, from El Prado](https://github.com/klauszach/klauszach.github.io/blob/main/docs/assets/ink/img_1800.jpg)
 
-![Bridge in Madrid](/assets/ink/img_1799.jpg)
+![Bridge in Madrid](https://github.com/klauszach/klauszach.github.io/blob/main/docs/assets/ink/img_1799.jpg)
 
-![Doorway in Puerta de Alacarta, Toledo](/assets/ink/img_1801.jpg)
+![Doorway in Puerta de Alacarta, Toledo](https://github.com/klauszach/klauszach.github.io/blob/main/docs/assets/ink/img_1801.jpg)
 
-![All Schrunched Up](/assets/ink/img_1804.jpg)
+![All Schrunched Up](https://github.com/klauszach/klauszach.github.io/blob/main/docs/assets/ink/img_1804.jpg)
 
-![Seafood Dinner](/assets/ink/img_1854.jpg)
+![Seafood Dinner](https://github.com/klauszach/klauszach.github.io/blob/main/docs/assets/ink/img_1854.jpg)
 
-![Some old guy, eating](/assets/ink/img_1811.jpg)
+![Some old guy, eating](https://github.com/klauszach/klauszach.github.io/blob/main/docs/assets/ink/img_1811.jpg)
 
-![Cara Sur en Camino](/assets/ink/img_1858.jpg)
+![Cara Sur en Camino](https://github.com/klauszach/klauszach.github.io/blob/main/docs/assets/ink/img_1858.jpg)
 
-![My Place](/assets/ink/img_1855.jpg)
+![My Place](https://github.com/klauszach/klauszach.github.io/blob/main/docs/assets/ink/img_1855.jpg)
 
 As of the tenth of March 2020, all CU study abroad programs in Spain have been suspended. I plan on continuing with my daily drawing, but these sketches now capture something far more ephemeral than I had planned.
 
