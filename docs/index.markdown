@@ -5,31 +5,19 @@
 layout: default
 ---
 
-Projects
-
-Artistic Style
-
-Musings
-
-About me (https://klauszach.github.io)
+Welcome to my website. This site forms a portfolio of work both personal and professional. I am not much of a web developer, so it is a learning experience too.
 
 ---
 
-# Hello world!
+[Projects](https://klauszach.github.io/blade)
 
-##This is some markdown text
+[Artistic Style](https://klauszach.github.io/ink)
 
-### I am learning it as I go :)
+[Musings](https://klauszach.github.io/learning)
 
-**Boldly go forth and** *conquer*
+[About me](https://klauszach.github.io/about)
+
+---
 
 >Solvitur Ambulando 
-		~Diogenes of Synope
-
-1. First things first
-2. Secondly
-3. Third times the charm
-
-5. Way out!
-
-'code. '
+>~Diogenes of Synope
